@@ -28,3 +28,4 @@ Simple event calendar, with agenda view.
 
 *Weather icons are from Meteocons set by Alessio Atzeni*
 ![Unit testing](https://github.com/99002764/Calendar-Application/workflows/Unit%20testing/badge.svg)
+![Unit testing](https://github.com/99002764/Calendar-Application/workflows/Unit%20testing/badge.svg)
